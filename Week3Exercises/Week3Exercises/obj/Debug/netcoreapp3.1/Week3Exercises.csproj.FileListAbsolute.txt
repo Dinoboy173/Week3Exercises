@@ -1,0 +1,11 @@
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\bin\Debug\netcoreapp3.1\Week3Exercises.exe
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\bin\Debug\netcoreapp3.1\Week3Exercises.deps.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\bin\Debug\netcoreapp3.1\Week3Exercises.runtimeconfig.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\bin\Debug\netcoreapp3.1\Week3Exercises.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\bin\Debug\netcoreapp3.1\Week3Exercises.dll
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\bin\Debug\netcoreapp3.1\Week3Exercises.pdb
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\obj\Debug\netcoreapp3.1\Week3Exercises.csprojAssemblyReference.cache
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\obj\Debug\netcoreapp3.1\Week3Exercises.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\obj\Debug\netcoreapp3.1\Week3Exercises.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\obj\Debug\netcoreapp3.1\Week3Exercises.dll
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\Week3Exercises\obj\Debug\netcoreapp3.1\Week3Exercises.pdb
