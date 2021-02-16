@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Week3Exercises\\Week3Exercises\\Week3Exercises\\Week3Exercises\\AIE_Week3_01_Inheritance.csproj",
-      "projectName": "AIE_Week3_01_Inheritance",
-      "projectPath": "C:\\Users\\s201031\\Desktop\\Week3Exercises\\Week3Exercises\\Week3Exercises\\Week3Exercises\\AIE_Week3_01_Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Week3Exercises\\Week3Exercises\\Week3Exercises\\AIE_Week3_02_SaveContact\\AIE_Week3_02_SaveContact.csproj",
+      "projectName": "AIE_Week3_02_SaveContact",
+      "projectPath": "C:\\Users\\s201031\\Desktop\\Week3Exercises\\Week3Exercises\\Week3Exercises\\AIE_Week3_02_SaveContact\\AIE_Week3_02_SaveContact.csproj",
       "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s201031\\Desktop\\Week3Exercises\\Week3Exercises\\Week3Exercises\\Week3Exercises\\obj\\",
+      "outputPath": "C:\\Users\\s201031\\Desktop\\Week3Exercises\\Week3Exercises\\Week3Exercises\\AIE_Week3_02_SaveContact\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

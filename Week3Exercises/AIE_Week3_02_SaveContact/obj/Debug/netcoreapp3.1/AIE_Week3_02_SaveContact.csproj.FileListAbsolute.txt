@@ -1,0 +1,11 @@
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\bin\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.exe
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\bin\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.deps.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\bin\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.runtimeconfig.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\bin\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\bin\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.dll
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\bin\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.pdb
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\obj\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\obj\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\obj\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.dll
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\obj\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.pdb
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_02_SaveContact\obj\Debug\netcoreapp3.1\AIE_Week3_02_SaveContact.csprojAssemblyReference.cache
