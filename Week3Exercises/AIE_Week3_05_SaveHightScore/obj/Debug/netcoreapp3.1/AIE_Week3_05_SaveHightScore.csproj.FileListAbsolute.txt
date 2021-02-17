@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\bin\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.exe
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\bin\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.deps.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\bin\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.runtimeconfig.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\bin\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\bin\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.dll
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\bin\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.pdb
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\obj\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\obj\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\obj\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.dll
+C:\Users\s201031\Desktop\Week3Exercises\Week3Exercises\Week3Exercises\AIE_Week3_05_SaveHightScore\obj\Debug\netcoreapp3.1\AIE_Week3_05_SaveHightScore.pdb

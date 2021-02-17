@@ -10,11 +10,6 @@ namespace AIE_32_SaveContactList
         public string email = "";
         public string phone = "";
 
-        public Contact()
-        {
-
-        }
-
         public Contact(string name, string email, string phone)
         {
             this.name = name;
